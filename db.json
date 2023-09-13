@@ -395,6 +395,7 @@
     }
   ],
   "users": [
+    
     {
       "name": "abdullah",
       "cart": [
@@ -430,6 +431,5 @@
       "password": "1234",
       "id": 1
     }
-    
   ]
 }

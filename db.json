@@ -429,59 +429,7 @@
       "city": "dfgd",
       "password": "1234",
       "id": 1
-    },
-    {
-      "userName": "hamdi",
-      "cart": [],
-      "wishList": [],
-      "password": "4563",
-      "name": "Hamdy",
-      "email": "hamdy@gmail.com",
-      "city": "fayoum",
-      "id": 2
-    },
-    {
-      "name": "Mohammad Malik",
-      "cart": [],
-      "wishList": [],
-      "userName": "Malik",
-      "email": "mm@gmail.com",
-      "city": "Cairo",
-      "password": "1994",
-      "id": 3,
-      "wishlist": []
-    },
-    {
-      "name": "yassin",
-      "cart": [],
-      "wishList": [],
-      "userName": "yasser",
-      "email": "yasser@yaho.com",
-      "city": "fayoum",
-      "password": "2333",
-      "id": 4,
-      "wishlist": []
-    },
-    {
-      "name": "kareem",
-      "cart": [],
-      "wishList": [],
-      "userName": "Kareem",
-      "email": "kr@gmail.com",
-      "city": "dfgd",
-      "password": "2009",
-      "id": 5
-    },
-    {
-      
-      "name": "ahmed",
-      "cart": [],
-      "wishList": [],
-      "userName": "salama",
-      "email": "salamy@gmail.com",
-      "city": "famoy",
-      "password": "2003",
-      "id": 6
     }
+    
   ]
 }
